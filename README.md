@@ -3,12 +3,12 @@
 
 ## Large Projects
 > 1. Bottle Filling Plant
-> > 1. DC Motor test
-> > 2. IR Sensor
-> > 3. Limit level Switch
-> > 4. Pump test Relay
-> > 5. Solo Single Pin_test
-> > 6. Final Integration (final)
+> - DC Motor test
+> - IR Sensor
+> - Limit level Switch
+> - Pump test Relay
+> - Solo Single Pin_test
+> - Final Integration (final)
 
 ## Mini-Projects
 > 1. DHT-11 Arduino
