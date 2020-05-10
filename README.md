@@ -10,6 +10,18 @@
 > - Solo Single Pin_test
 > - Final Integration (final)
 
+> 2. Braille Easy Read Tablet Building
+> - delay Switches
+> - Operation Switches
+> - Soloniod Single Operation
+> - Solo Solonoid Auto-MAnual Operation
+> - Eng / Hindi LCD Sense
+> - Eng / Hindi Keypad Sense
+> - Custom Character on LCD
+> - Barille Keys
+> - Complete Auto / Maunal Code
+
+
 ## Mini-Projects
 > 1. DHT-11 Arduino
 > 2. temperature & humidity PT100
